@@ -1,5 +1,5 @@
 # Praktikum Pengantar Pemrograman
-<p> Nama : Muhammad Adhy Fahriansyah Ahmad </p>
+<p> Nama : Muhammad Adhi Fahriansyah Ahmad </p>
 <p> NIM : 231031100 </p>
 <p> Prodi : Sistem Informasi D </p>
   
